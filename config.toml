@@ -1,4 +1,4 @@
 baseURL = "https://engine210.github.io/firstblog/"
 languageCode = "en-us"
 title = "My New Hugo Site"
-theme = "ananke"
+theme = "chunky-poster"
